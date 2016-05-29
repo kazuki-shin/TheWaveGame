@@ -87,7 +87,7 @@ public class Menu extends MouseAdapter{
 		g.drawString("Play", 287, 193);
 		
 		g.drawRect(Game.WIDTH/2-100, 250, 200, 64);
-		g.drawString("Poop", 287, 293);
+		g.drawString("Help", 287, 293);
 		
 		g.setColor(Color.WHITE);
 		g.drawRect(Game.WIDTH/2-100, 350, 200, 64);
