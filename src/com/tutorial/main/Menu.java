@@ -101,7 +101,7 @@ public class Menu extends MouseAdapter{
 			
 			g.setFont(fnt);
 			g.setColor(Color.WHITE);
-			g.drawString("Help", Game.WIDTH/2-55, 70);
+			g.drawString("Instructions", Game.WIDTH/2-55, 70);
 			
 			g.setFont(fnt3);
 			g.drawString("Use WASD keys to move player and dodge enemies", 25, 200);
